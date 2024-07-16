@@ -125,11 +125,10 @@
   .sponser-text{
     text-align: center;
     max-width: 542px;
+    margin: 0 auto;
    
   }
-  .sponser{
-   
-  }
+ 
   .sponser-logo{
     display: grid;
     grid-template-columns: repeat(5,1fr);
